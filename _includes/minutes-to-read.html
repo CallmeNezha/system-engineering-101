@@ -1,4 +1,4 @@
-{% assign words = content | number_of_words %}
+{% assign words = content | strip_html | strip_newlines | split: "" | size %}
 
 {% if words < 360 %}
     {% assign minutesText = '1 minute to read' %}
