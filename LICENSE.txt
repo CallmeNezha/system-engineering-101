@@ -23,11 +23,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
---------------------- For original content/posts created by CallmeNezha ---------------------------------------------------------
+--------------------- For original content/posts created by ZIJIAN JIANG ---------------------------------------------------------
 
 The GPLv3 License (GPLv3)
 
-Copyright (C) 2020 CallmeNezha
+Copyright (C) 2020 ZIJIAN JIANG
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
